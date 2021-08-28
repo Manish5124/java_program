@@ -1,1 +1,7 @@
-this is text1 file and we can edit this file by using another file
+git init
+git status
+git log
+git add . 
+git commit -m " some changes in the file"
+git push -u origin url of file
+git remote -v
