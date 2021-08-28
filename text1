@@ -1,4 +1,4 @@
-git init
+git init // it is use to initialize the git repository
 git status
 git log
 git add . 
